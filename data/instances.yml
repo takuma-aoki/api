@@ -427,6 +427,8 @@
   langs: ['ja']
 - url: misskey.haun.jp
   langs: ['ja']
+- url: msks.atserver186.jp
+  langs: ['ja']
 - url: tenpoku.com
   langs: ['ja']
 - url: misskey.ie.u-ryukyu.ac.jp
